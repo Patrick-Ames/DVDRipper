@@ -1,4 +1,6 @@
-# dvdrip
+# DVDRipper
+
+# Created by Xenomachina
 
 Rip DVDs quickly and easily from the commandline.
 
