@@ -19,7 +19,7 @@ Rip DVDs quickly and easily from the commandline.
   - Easy to read "scan" mode tells you what you need need to know about
     a disk to decide on how to rip it.
 
-## Why I wrote this:
+## Why Xenomachina wrote this:
   This script exists because I wanted a simple way to back up DVDs with
   reasonably good compression and quality settings, and in a format I could
   play on the various media players I own including PS3, Roku, smart TVs,
@@ -38,6 +38,12 @@ Rip DVDs quickly and easily from the commandline.
   produce a single file, "/tmp/AwesomeVideo.mp4", or a directory
   "/tmp/AwesomeVideo/" which will contain separate files for each title,
   depending on whether you're ripping a single title or multiple titles.
+  
+## Why I modified it:
+  This is a great script and I used it a shit load to back up all my DVD movies to my NAS.
+  I found one major problem however, it will only rip one DVD at a time.
+  I built a PC with 3 DVD/Blueray reader bays, and it only works on one at a time. Not even automaticly, I have to restart it every time.
+  It needed a way to automate that task, so I am working on building that.
 
 ## Using it, Step 1:
 
