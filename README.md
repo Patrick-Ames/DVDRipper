@@ -112,7 +112,7 @@ Rip DVDs quickly and easily from the commandline.
 
 ## Limitations:
 
-  This script has been tested on both Linux and Mac OS X with Python 3,
+  This script has been tested on both Linux and Mac OS X with Python 3.9,
   HandBrakeCLI and VLC installed (and also MacPorts in the case of OS X).
 
 ## Usage:
