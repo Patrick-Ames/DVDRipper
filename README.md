@@ -44,7 +44,6 @@ Rip DVDs quickly and easily from the commandline.
   I found one major problem however, it will only rip one DVD at a time.
   I built a PC with 3 DVD/Blueray reader bays, and it only works on one at a time. Not even automaticly, I have to restart it every time.
   It needed a way to automate that task, so I am working on building that.
-  Edit: Its not going well!
 
 ## Using it, Step 1:
 
