@@ -1,6 +1,6 @@
-# dvdrip
+# DVDRipper
 
-Rip DVDs quickly and easily from the commandline.
+Rip DVDs quickly and easily from the command line. Originally created by Xenomachina. Modified by Me.
 
 
 ## Features:
